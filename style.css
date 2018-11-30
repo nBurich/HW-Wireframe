@@ -1,0 +1,131 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background: #777;
+}
+
+header {
+    font-size: 18px;
+    text-align: center;
+    display: bold;
+    color: black;
+    background: #ebebeb;
+    width: 920px;
+    height: 70px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px;
+    margin-left: 300px
+
+}
+
+nav {
+
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    background: #ebebeb;
+    width: 920px;
+    height: 70px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px; 
+    margin-left: 300px;   
+
+}
+.color {
+    color:black;
+
+}
+
+.color2 {
+    color: blue;
+}
+
+.one {
+    float: right;
+    position: relative;
+    background: #ebebeb;
+    width: 480px;
+    margin-right: 250px;
+}
+
+aside {
+    text-align: center;
+    color: #777;
+    position: absolute;
+    background: #ebebeb;
+    display: auto;
+}
+
+.image {
+    width: 100%;
+    height: 370px;
+
+}
+
+.two {
+    text-align: center;
+    clear: both;
+    float: left;
+    position: relative;
+    margin-bottom: 15px;
+    color: #777;
+    background: #ebebeb;
+    width: 465px;
+    height: 400px;
+    margin-left:295px;
+}
+
+
+
+.article {
+    text-align: center;
+    height: 300px;
+    color: #ebebeb;
+    background: #777;
+    width: 80%;
+    margin-left: 40px;
+    margin-top: 30px;
+    display: inherit;  
+    z-index:-10;
+
+}
+
+.heading {
+    text-align: center;
+    width: 90%;
+    height:50px;
+    color: #777;
+    background-color: #ebebeb;
+    left: 0;
+    right: 10px;
+    z-index: 10;
+    margin-bottom: 3px;
+    margin-left: 20px;
+
+}
+
+.p {
+    width: 90%;
+    font-size: 16px;
+    height: 180px;
+    color: #777;
+    background: #ebebeb;
+    overflow: auto;
+    left:0;
+    right:0;
+    z-index: 10;
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+}
+
+footer {
+    clear: both;
+    width:920px;
+    color: gray;
+    height: 70px;
+    background-color: #ebebeb;
+    padding: 10px 20px 10px 20px;
+    margin-left: 300px;    
+}
